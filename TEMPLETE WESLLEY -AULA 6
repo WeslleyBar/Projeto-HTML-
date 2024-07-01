@@ -1,0 +1,107 @@
+<!DOCTYPE HTML>
+
+<html><head><title>TEMPLETE WESLLEY BARBOSA</title><meta charset="utf-8"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="assets/css/main.css"></head><body>
+
+		<!-- Header -->
+			<header id="header" class="alt"><div class="logo"><a href="index.html">ASTRONOMIA <span>by TEMPLATE WESLLEY</span></a></div>
+				<a href="#menu">Menu</a>
+			</header><!-- Nav --><nav id="menu"><ul class="links"><li><a href="index.html">INICIO</a></li>
+					<li><a href="generic.html">GENERO</a></li>
+					<li><a href="elements.html">ELEMENTOS</a></li>
+				</ul></nav><!-- Banner --><section class="banner full"><article><img src="" alt="" width="1440" height="961"><div class="inner">
+						<header><p>VENHA E VEJA AS MELHORES IMAGENS POSTADAS EM NOSSO SITE <a href="https://templated.co">CURTA E SE DIVIRTA</a></p>
+							<h2>ASTRONOMIA A ANIMAÇÃO</h2>
+						</header></div>
+				</article><article><img src="images/slide02.jpg" alt="" width="1440" height="961"><div class="inner">
+						<header><p>TENHA AS MELHORES IMAGENS</p>
+							<h2>ASTRONOMIA.NET</h2>
+						</header></div>
+				</article><article><img src="images/slide03.jpg" alt="" width="1440" height="962"><div class="inner">
+						<header><p>SIGA NOSSA PÁGINA</p>
+							<h2>ESTRELA.COM</h2>
+						</header></div>
+				</article><article><img src="images/slide04.jpg" alt="" width="1440" height="961"><div class="inner">
+						<header><p>PATROCINADOR NA.LUA! SUA LOJA VIRTUAL</p>
+							<h2>LARRISA VALENTIM</h2>
+						</header></div>
+				</article><article><img src="images/slide05.jpg" alt="" width="1440" height="962"><div class="inner">
+						<header><p> ADVOGATA </p>
+							<h2>AIZA <3</h2>
+						</header></div>
+				</article></section><!-- One --><section id="one" class="wrapper style2"><div class="inner">
+					<div class="grid-style">
+
+						<div>
+							<div class="box">
+								<div class="image fit">
+									<img src="images/pic02.jpg" alt="" width="600" height="300"></div>
+								<div class="content">
+									<header class="align-center"><p>ESCALADAS NA ANTARTICA, COM MELHORES PREÇOS</p>
+										<h2> R$ 5.000,00</h2>
+									</header><p>A escalada no gelo é uma disciplina da família da escalada de tipo extremo que consiste em subir uma parede de água gelada como uma cascata de gelo. O equipamento é específico e constituído por crampons de pontas frontais nas botas e um piolet em cada mão, do tipo piolet de tracção</p>
+									<footer class="align-center"><a href="#" class="button alt">CLICK AQUI</a>
+									</footer></div>
+							</div>
+						</div>
+
+						<div>
+							<div class="box">
+								<div class="image fit">
+									<img src="images/pic03.jpg" alt="" width="600" height="300"></div>
+								<div class="content">
+									<header class="align-center"><p>IMAGEM: WESLLEY BARBOSA</p>
+										<h2>AVIÃO DA SEGUNDA GUERRA : GTH TAP 35</h2>
+									</header><p>VENHA CONFIRIR NOSSAS FOTOS</p>
+									<footer class="align-center"><a href="#" class="button alt">CLICK AQUI</a>
+									</footer></div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</section><!-- Two --><section id="two" class="wrapper style3"><div class="inner">
+					<header class="align-center"><p>NOSSO SITE É PATROCINADO POR CAMALEÃO HEADSHOP</p>
+						<h2>CONTATO: (92) 99447-0793</h2>
+					</header></div>
+			</section><!-- Three --><section id="three" class="wrapper style2"><div class="inner">
+					<header class="align-center"><p class="special"> CONFIRA NOSSAS IMAGENS</p>
+						<h2>FOTOS DE WESLLEY BARBOSA</h2>
+					</header><div class="gallery">
+						<div>
+							<div class="image fit">
+								<a href="#"><img src="images/pic01.jpg" alt="" width="600" height="300"></a>
+								<CENTER><h2> Foto: WESLLEY BABOSA</h2></CENTER>
+							</div>
+						</div>
+						<div>
+							<div class="image fit">
+								<a href="#"><img src="images/pic02.jpg" alt="" width="600" height="300"></a>
+								<CENTER><h2> Foto: WESLLEY BABOSA</h2></CENTER>
+							</div>
+						</div>
+						<div>
+							<div class="image fit">
+								<a href="#"><img src="images/pic03.jpg" alt="" width="600" height="300"></a>
+								<CENTER><h2> Foto: WESLLEY BABOSA</h2></CENTER>
+							</div>
+						</div>
+						<div>
+							<div class="image fit">
+								<a href="#"><img src="images/pic04.jpg" alt="" width="600" height="300"></a>
+								<CENTER><h2> Foto: WESLLEY BABOSA</h2></CENTER>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section><!-- Footer --><footer id="footer"><div class="container">
+					<ul class="icons"><li><a href="https://x.com/?lang=pt-br" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="https://www.facebook.com/weslley.top?locale=pt_BR" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.instagram.com/weslleybarbosa_/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=ee272b19-4411-433f-8f28-5c13cb6fd407&redirect_uri=https%3A%2F%2Fsupport.microsoft.com%2Fsignin-oidc&response_type=code%20id_token&scope=openid%20profile%20offline_access&response_mode=form_post&nonce=638553918876502703.Zjg2ZmViMWQtN2E1Ni00NzAzLTlkNjYtNzU4M2I5YTdlOTRjMDY0MTU0MGItYjA3ZC00MGMzLWIzNDMtYjkzNjkyYzViNDc5&nopa=2&state=CfDJ8CiTzr73KWNFsUGcHEnPeJp757dYVu27pV6swji1Stgfc3uEPxZdzINLdaaNGfH5o0o5mf2IShKrSlafqOtRlvIUsEpW46EQMNBXnhSGwP40e7W3giuKQP9lMEdNa_EYI_EEbLDq6OhQe0WTFtUXHGvEOIrK0-fsnilrgoamEBL3R9jHf1QthXiDO_Z9FLS93rV1xf2W3XSeVqwwY5uoMmFyM9LcafKfoVxGKpC88ZfsW5MVN1yMaehlaON8lyz70E7qS20vJUlLCRrVF6qtsPvt1UgiiyKfqGO6npQhYLGZXZwkSxNJXjB8RwdMQ4w3YuS16T-SURjbpEAEeY5R5D5tg78M9XGWopNh9PlKje9V_bQfBj1Y84dfOCtSKgOYrx0qLr2fl4yqsV7Ai3G7h8E&x-client-SKU=ID_NET6_0&x-client-ver=6.35.0.0" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+					</ul></div>
+			</footer><div class="copyright">
+			MEU SITE <a href="https://templated.co/">WESLLEY BARBOSA</a>.
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script><script src="assets/js/jquery.scrollex.min.js"></script><script src="assets/js/skel.min.js"></script><script src="assets/js/util.js"></script><script src="assets/js/main.js"></script></body></html>
